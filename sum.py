@@ -1,4 +1,4 @@
-a = 5
-b = 4
-sum = a + b
-print('The sum is'.format(a, b, sum))
+num1 = 1.5
+num2 = 6.3
+sum = num1 + num2
+print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
